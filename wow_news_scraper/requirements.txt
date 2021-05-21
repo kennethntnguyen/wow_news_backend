@@ -1,0 +1,11 @@
+html5lib==1.0.1
+aiohttp==3.6.2
+requests==2.22.0
+pymongo==3.11.0
+regex==2021.4.4
+beautifulsoup4==4.9.1
+dnspython==2.0.0
+lxml==4.5.2
+motor==2.2.0
+Flask==2.0.0
+Flask-PyMongo==2.3.0
